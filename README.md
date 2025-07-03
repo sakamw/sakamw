@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there 👋, I'm Saka Mwangi</h1>
+<h1 align="center">Hi there 👋, I'm Isaac Mwangi</h1>
 
 ---
 
